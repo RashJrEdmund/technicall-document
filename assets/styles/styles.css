@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 30vw 70vw;
+  /* font-family: sans-serif; */
+  border: 1px solid black;
+  height: 100%;
+}
+
+.nav-bar {
+  display: grid;
+  grid-template-columns: 30vw;
+  border: 1px solid black;
+}
+
+.nav-bar-content {
+  border: 1px solid black;
+  height: 3rem;
+  padding: 10px 10px 0 10px;
+}
