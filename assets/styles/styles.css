@@ -9,11 +9,14 @@ body {
 .both {
   /* display: grid;
   grid-template-columns: 1fr 1fr; */
+  margin: 0;
+  display: grid;
+  grid-template-columns: 20% 78%;
 }
 
 .nav-bar {
-  /* position: fixed; */
-  display: grid;
+  position: fixed;
+  /* display: grid; */
   grid-template-columns: 1fr 1fr;
   border: 0;
   margin-left: 0;
