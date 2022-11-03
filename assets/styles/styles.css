@@ -20,7 +20,7 @@ body {
   word-wrap: break-word;
   border-right: none;
   height: 3rem;
-  padding: .5rem 1px .5rem 10px;
+  padding: 0.5rem 1px 0.5rem 10px;
   text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ a {
   border-top: 1px solid #4d4e53;
   border-right: none;
   height: 2rem;
-  padding: .5rem 1px .5rem 10px;
+  padding: 0.5rem 1px 0.5rem 10px;
   text-decoration: none;
 }
 
@@ -45,11 +45,11 @@ a {
   .nav-bar {
     grid-template-columns: 25%;
   }
- */
- /*  .nav-bar-content {*/
-   /* display: flex;
-    flex-wrap: wrap; */
-/*    border-top: 1px solid #4d4e53;
+
+ .nav-bar-content {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 1px solid #4d4e53;
     width: 100%;
     padding: 5% 5% 0 5%;
   }
@@ -57,4 +57,4 @@ a {
   .main {
     grid-template-columns: 70%;
   }
-} */
+}*/
