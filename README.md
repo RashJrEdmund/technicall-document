@@ -1,5 +1,8 @@
 # Technical_Documentation
 
+# AUTHOR
+    This project was made by "RASH"
+
 ## About
    This project was a simple assignment given to test our still growing skills. it's about implement a pdf-like document with it's fixed side nav bar and a body.
 
