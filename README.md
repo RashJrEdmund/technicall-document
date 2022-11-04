@@ -7,7 +7,7 @@
    This project was a simple assignment given to test our still growing skills. it's about implement a pdf-like document with it's fixed side nav bar and a body.
 
 ## OPENNING THE PROGRAM
-    It is as simple as clicking on the link it's link, after ofcourse you've searched it on your browser.
+    It is as simple as clicking on it's link, or searching this url on your browser "///"
 
 ## BUILT WITH
     This page is basically built with just 
